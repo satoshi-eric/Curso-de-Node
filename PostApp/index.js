@@ -44,6 +44,6 @@ const Post = require('./models/Post')
     })
 
 
-app.listen(8081, function() {
+app.listen(8082, function() {
     console.log("Servidor rodando na url http://localhost:8081")
 })
